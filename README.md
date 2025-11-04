@@ -4,3 +4,7 @@ Este repositório apresenta uma implementação demonstrativa de dashboard feita
 git clone https://github.com/AlexadraCampos/portfolio-powerbi.git 
 
 Acesse também por https://portfolio-powerbi.netlify.app/
+
+📸 Demonstração
+
+<img width="1080" height="1080" alt="Pluma" src="./img/demo.jpg"/>
