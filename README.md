@@ -7,4 +7,4 @@ Acesse também por https://portfolio-powerbi.netlify.app/
 
 📸 Demonstração
 
-<img width="1080" height="1080" alt="Pluma" src="./img/demo.jpg"/>
+<img width="1080" height="1080" alt="Pluma" src="./img/Demo.png"/>
